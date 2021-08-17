@@ -42,7 +42,7 @@ It is a Microsoft Excel clone having some basic functionalities. It is made for 
 
  e) The number column and alphabet row also flash a green color while hovering, a small functionality given by excel.
 
-##d# Sheet
+### Sheet
 
  a) Add: The ‘+’ button is used to add as many sheets to the UI as the user wants.
 
